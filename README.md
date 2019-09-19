@@ -2,9 +2,9 @@
 
 This repository contains the instrucsions with the grading rubric and the starter code for homework 3.  
 
-The instructions and grading rubric are in Homework 3.pdf
+The instructions and grading rubric are in Homework 3.pdf - read this first!
 
-The starter code is in HW3.py
+The starter code is in HW3.py - you will edit this to write your code
 
 To clone this repository to your local computer
 
@@ -22,3 +22,5 @@ When you are ready to do a commit
 - git status # to check that the file is in the staging area
 - git commit -m "Message" # Replace Message with some text that explains the current state of your file
 - git push -u origin master # To push your commits to github
+
+Be sure to turn in a link to your repo on Canvas by the due date!  You don't have to upload any files to Canvas.
